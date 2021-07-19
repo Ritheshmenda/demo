@@ -1,0 +1,13 @@
+C:\Users\Rithesh\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\Users\Rithesh\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\Users\Rithesh\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\Users\Rithesh\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\Users\Rithesh\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\Users\Rithesh\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\Users\Rithesh\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.AssemblyReference.cache
+C:\Users\Rithesh\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\Users\Rithesh\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\Users\Rithesh\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+C:\Users\Rithesh\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\Users\Rithesh\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.pdb
+C:\Users\Rithesh\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
